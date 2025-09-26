@@ -239,5 +239,8 @@ header {
         background: #f4f2ed;
         padding: 5rem 0;
       }
+      #contact .container {
+        max-width: 900px;
+      }
       
       
