@@ -93,3 +93,6 @@ header {
   header .content p {
     margin: 20px 0 40px;
     }
+    header * {
+        z-index: 10;
+      }
