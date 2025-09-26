@@ -137,3 +137,15 @@ header {
       #about .about-content a {
         margin-top: 2rem;
       }
+      #offers {
+        height: 80vh;
+        background: url("./img/offer-background.jpg") center center/cover fixed;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+    }
+    #offers .title p {
+      
+      font-weight: 500;
+    }
