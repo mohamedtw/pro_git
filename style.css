@@ -250,5 +250,10 @@ header {
       #contact .contact-info {
         width: 50%;
       }
+      #contact .contact-info div {
+        margin: 30px 0;
+        line-height: 1.7;
+      }
+      
       
       
