@@ -126,3 +126,7 @@ header {
         line-height: 1.6;
         font-weight: 500;
       }
+      about .about-content img{
+        width: 600px;
+        height: 600px;
+      }
