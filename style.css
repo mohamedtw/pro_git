@@ -96,3 +96,10 @@ header {
     header * {
         z-index: 10;
       }
+      #about {
+        height: 80vh;
+        background: #f4f4f4;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
