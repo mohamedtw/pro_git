@@ -205,4 +205,10 @@ header {
       #menu .menu-items .menu-item p {
         margin-top: 10px;
       }
+      #menu .btn {
+        display: block;
+        margin: auto;
+        border: none;
+        margin-top: 30px;
+      }
       
