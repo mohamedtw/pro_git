@@ -211,4 +211,15 @@ header {
         border: none;
         margin-top: 30px;
       }
+      #gallery {
+        background: url("./img/offer-background.jpg") center center/cover;
+        padding: 8rem 0 6rem;
+      }
+      #gallery h2 {
+        font-size: 40px;
+        color: #fff;
+        text-align: center;
+        margin-bottom: 30px;
+      }
+      
       
