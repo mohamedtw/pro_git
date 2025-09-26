@@ -121,3 +121,8 @@ header {
         display: flex;
         justify-content: space-between;
       }
+      #about .about-content p {
+        margin-right: 7rem;
+        line-height: 1.6;
+        font-weight: 500;
+      }
