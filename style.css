@@ -202,4 +202,7 @@ header {
         right: 0px;
         top: 0;
       }
+      #menu .menu-items .menu-item p {
+        margin-top: 10px;
+      }
       
