@@ -180,13 +180,13 @@ header {
         padding: 5rem 0;
       }
       
+     
       #menu .menu-items .menu-item {
         display: flex;
         justify-content: center;
         align-items: center;
         margin: 40px;
       }
-      
       #menu .menu-items .menu-item img {
         width: 80px;
         border-radius: 50%;
