@@ -155,3 +155,9 @@ header {
         align-items: center;
         text-align: center;
       }
+      #offers .offers-items img {
+        display: flex;
+        width: 200px;
+        border-radius: 10px;
+      }
+      
