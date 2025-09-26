@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -219,6 +220,111 @@
             <footer id="footer">
                 
             </footer>
+            <script>
+                $ (document).ready(function(){
+                $('p').css('color','red', 'width','500');
+                $('#hm').css('color','#383848');
+                $('#menu').css('backgroundColor','#f4f2ed');
+                $('#offers .title p ').css('color','#fff','font-weight','500')
+                $('.menu-items').css('display','flex','content-','center','align-items','center');
+                $('#menu .menu-items .menu-item .img').css('margin-right','20px',);
+                $('#contact .contact-info p i').css('color','##e4b95b','margin-right','5px');
+                $('#m2').css('color','#fff');
+                $('#m4').css('color','#fff');
+               
+            
+            
+                $('#wew2').mouseenter(function(){
+                $(this).css('backgroundColor','pink');
+                });
+                $('#wew2').mouseleave(function(){
+                $(this).css('backgroundColor','#383848');
+                });
+            
+                $('.menu-items').mouseenter(function(){
+                $(this).css('backgroundColor','#383848');
+                });
+                $('.menu-items').mouseleave(function(){
+                $(this).css('backgroundColor','#f4f2ed');
+                });
+            
+                $('.menu-items img').dblclick(function(){
+                $(this).css('width','50%');
+                });
+                $('.menu-items img').click(function(){
+                $(this).css('width','80px');
+                });
+            
+                $('.img-gallery img').mouseenter(function(){
+                $(this).css('width','320px');
+                });
+            
+                $('.img-gallery img').mouseleave(function(){
+                $(this).css('width','280');
+                });
+            
+                $('form').css('width','50%');
+                $('#wew').click(function(){
+                $('.menu-items').toggle(1500);
+               });
+            
+               });
+               setInterval(slider,"750")
+                setInterval(slider2,"750")
+                setInterval(slider3,"750")
+                y=0
+                x=0
+                w=0
+                function slider(){
+                y++;
+                if(y==5){
+                    document.getElementById("fd").src="./img/kam.jpg "
+            
+                }
+                if(y==10){
+                    document.getElementById("fd").src="./img/kia.webp"
+            
+                }
+                if(y==15){
+                    document.getElementById("fd").src="./img/taqom.png"
+                   y=0;
+                }
+                }
+                function slider2(){
+                x++;
+                if(x==5){
+                    document.getElementById("fs").src="./img/prado.jpg"
+            
+                }
+                if(x==10){
+                    document.getElementById("fs").src="./img/lacsess.png"
+            
+                }
+                if(x==15){
+                    document.getElementById("fs").src="./img/gklas.png"
+                   x=0;
+                }
+                }
+                function slider3(){
+                w++;
+                if(w==5){
+                    document.getElementById("fw").src="./img/brado.jpg"
+            
+                }
+                if(w==10){
+                    document.getElementById("fw").src="./img/lmb.jpg"
+            
+                }
+                if(w==15){
+                    document.getElementById("fw").src="./img/kia.webp"
+                   w=0;
+                }
+                
+               }
+            </script>
     
 </body>
 </html>
+
+
+
