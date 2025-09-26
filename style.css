@@ -197,4 +197,9 @@ header {
         padding-bottom: 10px;
         position: relative;
       }
+      #menu .menu-items .menu-item span {
+        position: absolute;
+        right: 0px;
+        top: 0;
+      }
       
