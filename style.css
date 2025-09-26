@@ -276,6 +276,13 @@ header {
         border: none;
         background-color: #e3e2dd;
       }
+      #footer {
+        background-color: #383848;
+        text-align: center;
+        color: #fff;
+        padding: 15px 0;
+        font-size: 14px;
+      }
       
       
       
