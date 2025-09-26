@@ -149,3 +149,9 @@ header {
       
       font-weight: 500;
     }
+    #offers .offers-items {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        text-align: center;
+      }
