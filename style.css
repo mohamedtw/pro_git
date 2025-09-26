@@ -90,3 +90,6 @@ header {
     font-size: 40px;
     color: #fff;
   }
+  header .content p {
+    margin: 20px 0 40px;
+    }
