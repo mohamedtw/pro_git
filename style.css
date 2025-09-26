@@ -165,4 +165,11 @@ header {
         color: #fff;
         margin: 15px 0;
       }
+      #offers .offers-items p {
+        color: #fff;
+        font-size: 14px;
+        padding: 0 20px;
+        font-weight: 300;
+      
+      }
       
