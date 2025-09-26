@@ -130,3 +130,7 @@ header {
         width: 600px;
         height: 600px;
       }
+
+      #about img {
+        max-width: 450px;
+      }
