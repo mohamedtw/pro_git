@@ -160,4 +160,9 @@ header {
         width: 200px;
         border-radius: 10px;
       }
+      #offers .offers-items h3 {
+        font-size: 25px;
+        color: #fff;
+        margin: 15px 0;
+      }
       
