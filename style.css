@@ -134,3 +134,6 @@ header {
       #about img {
         max-width: 450px;
       }
+      #about .about-content a {
+        margin-top: 2rem;
+      }
