@@ -247,5 +247,8 @@ header {
         justify-content: space-evenly;
         align-items: center;
       }
+      #contact .contact-info {
+        width: 50%;
+      }
       
       
